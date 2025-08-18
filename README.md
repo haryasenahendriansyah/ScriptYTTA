@@ -32,9 +32,7 @@ Folder Config: `SenaXHub/mancing`
 
 ## 🔧 Cara Pakai
 
-1. Jalankan script ```lua
--- Load Fish It Script
-loadstring(game:HttpGet("https://raw.githubusercontent.com/haryasenahendriansyah/FishItScript/main/FishItScript.lua"))()  di **Roblox** menggunakan executor favorit.  
+1. Jalankan script di **Roblox** menggunakan executor favorit.  
 2. Pilih opsi di GUI sesuai kebutuhan:
    - **Auto Fish** untuk memancing otomatis.  
    - **Player** untuk mengatur speed/jump/infinity jump.  
