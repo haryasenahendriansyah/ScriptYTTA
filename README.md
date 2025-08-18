@@ -58,3 +58,6 @@ Script dilengkapi notifikasi dengan tipe:
 
 ## 📜 License
 - Dilarang menjual ulang atau mengklaim sebagai milik sendiri.
+
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/haryasenahendriansyah/ScriptYTTA/refs/heads/main/FishIt"))()
