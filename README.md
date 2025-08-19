@@ -1,4 +1,4 @@
-# 🦈 Fish It | Sena Community 🇮🇩
+# 🦈 Fish It | Sena Community 🇮🇩 ( OFF SCRIPT)
 
 **Script YTTA by Sena**  
 Versi: 1.0  
